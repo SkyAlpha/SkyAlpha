@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer | Frontend Specialist | Game Dev Enthusiast 🚀
 
-I am a Senior Software Engineer based in Curitiba, Brazil, with over a decade of experience building scalable, high-performance web applications. My philosophy is simple: **I go all-in.** I bring a level of excellence and a competitive "pro-level" discipline to every line of code I write and every architectural decision I make.
+I am a Senior Software Engineer based in Curitiba, Brazil, with over a decade of experience building scalable, high-performance web applications. My philosophy is simple: **I go all-in.** I bring a level of excellence and discipline to every line of code I write and every architectural decision I make.
 
 ---
 
