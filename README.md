@@ -1,38 +1,50 @@
-# Hi there, I'm Jonatan! 👋 🏀
+# 👋 Hello, I'm Jonatan Pietroski dos Santos!
 
-I am a **Senior Software Engineer** based in Curitiba, Brazil, with over 10 years of experience building high-performance digital experiences. I don't just "do" software; I go **all in**. Whether it's architecting a complex front-end system or hitting the basketball court, I bring a level of excellence and competitive drive to everything I touch. 🚀
+### Senior Software Engineer | Frontend Specialist | Game Dev Enthusiast 🚀
 
-### 🚀 What I Do
-- **Frontend Specialist:** Crafting seamless, high-performance user interfaces is my bread and butter.
-- **Full-Stack Proficiency:** I have a strong backbone in end-to-end development, ensuring robust and scalable systems from the database to the browser.
-- **Web Game Development:** I leverage web technologies to build immersive games, specializing in using **React** to create dynamic and complex gaming UIs.
+I am a Senior Software Engineer based in Curitiba, Brazil, with over a decade of experience building scalable, high-performance web applications. My philosophy is simple: **I go all-in.** I bring a level of excellence and a competitive "pro-level" discipline to every line of code I write and every architectural decision I make.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Core:** JavaScript (ES6+), TypeScript, React, Next.js, Node.js.
-- **Game Dev:** PhaserJS, Unity, WebGL, React-based Gaming UIs.
-- **Patterns:** Clean Architecture, Domain-Driven Design (DDD), SOLID.
-- **Tools:** GraphQL, Docker, PostgreSQL, Web3 Integration.
+### 💻 Professional Focus
+- **Frontend Specialist:** I specialize in creating seamless, intuitive, and high-performance user interfaces using the modern React ecosystem.
+- **Full-Stack Proficiency:** I maintain a strong proficiency in the full development lifecycle, ensuring that the bridge between the client and the server is robust, secure, and efficient.
+- **Game Development:** I bridge the gap between traditional web engineering and gaming. I leverage **React** to build complex, dynamic gaming UIs and utilize web technologies to create immersive browser-based experiences.
 
 ---
 
-### 🕹️ Personal Projects
-I love pushing the boundaries of what web technologies can do. One of my favorite projects is:
-- **[Luminus RPG](https://github.com/SkyAlpha/luminus-rpg):** An open-source Action RPG template built with PhaserJS to help developers jumpstart their game development journey.
+### 🌪️ Technical Passions: Flow Fields & Autonomous Agents
+I am deeply fascinated by the intersection of mathematics and code—specifically **Flow Fields** and **Autonomous Agents** (steering behaviors). 
+
+My work in this area isn't about "AI" in the modern sense; it's about algorithmic movement and simulation. Mastering these concepts has pushed me to the boundaries of **performance optimization** in web applications. It has taught me how to:
+- Optimize high-frequency rendering loops.
+- Manage memory efficiently for thousands of concurrent entities.
+- Implement spatial partitioning and bitwise operations to keep frame rates buttery smooth.
 
 ---
 
-### 🏀 Beyond the Code
-When I’m not at my desk, I’m probably on the court. 
-- **Basketball:** I play at a near-professional level. The same discipline, teamwork, and "never-give-up" mindset I use in the game are exactly what I bring to my engineering teams. ⛹️‍♂️
-- **Excellence:** I believe that if a job is worth doing, it’s worth doing with perfection. I am passionate about clean code and mentorship.
+### 🕹️ Featured Project
+**[Luminus RPG](https://github.com/SkyAlpha/luminus-rpg)** An open-source Action RPG project built with PhaserJS. This project serves as a foundation for developers looking to build web-based RPGs, showcasing clean architecture and efficient game state management.
 
 ---
 
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/jonatanpietroskidossantos/)
-- 📧 Reach out if you want to talk shop about Front-end architecture, Game Dev, or if you need a ringer for your basketball team!
+### 🛠️ Tech Stack & Patterns
+- **Languages/Frameworks:** TypeScript, React, Next.js, Node.js.
+- **Game Tech:** PhaserJS, Canvas API, WebGL, React-based Game UIs.
+- **Architecture:** Clean Architecture, Domain-Driven Design (DDD), SOLID Principles.
 
 ---
-*“Excellence is not an act, but a habit.”*
+
+### 🏀 Beyond the Screen
+When I'm not architecting systems, you’ll find me on the basketball court. ⛹️‍♂️ 
+
+I play **basketball at a near-professional level**. The discipline, teamwork, and relentless drive required to compete at a high level on the court are the same traits I bring to my engineering teams. I don't just participate; I strive for the win.
+
+---
+
+### 📫 Let's Connect
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/jonatanpietroskidossantos/)
+- 📧 Reach out if you want to talk about high-performance frontend architecture, game dev, or complex pathfinding algorithms!
+
+---
+*"Excellence is not an act, but a habit."*
